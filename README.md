@@ -16,12 +16,12 @@ Este repositório contém estudos práticos e análises exploratórias de dados 
 - Insight: A idade média dos atletas concentra-se na faixa dos 20 aos 30 anos (com mediana em torno de 25 anos), apresentando outliers em esportes específicos (como equitação ou tiro) com atletas acima de 50 anos.
 ![image_alt](https://github.com/gustayath/Machine_Learning_Python/blob/f7380daa791f0116d0d7c54da9ce2c430ec752f5/boxPlot_idade.png)
 ![image_alt](https://github.com/gustayath/Machine_Learning_Python/blob/ae0337e51b8de5ec46675d1c44e0ccb734edf8a6/hist_idade.png)
-- Insight: A idade média dos atletas concentra-se na faixa dos 20 aos 30 anos (com mediana em torno de 25 anos), apresentando outliers em esportes específicos (como equitação ou tiro) com atletas acima de 50 anos.
 
 2. Análise de Distribuição por Altura (Height)
 Distribuição de altura dos atletas participantes:
 - Insight: A altura segue uma distribuição simétrica (normal), com média ao redor de 175 cm.
 ![image_alt](https://github.com/gustayath/Machine_Learning_Python/blob/f6eff4516f9d2868f81937ec07d1b307408ab05c/boxPlot_altura.png)
+![image_alt](https://github.com/gustayath/Machine_Learning_Python/blob/3e151e6874a9fb0c4ea538f1849ad1f0db4936be/hist_altura.png)
 
 🔍 Exemplos de Código:
 
