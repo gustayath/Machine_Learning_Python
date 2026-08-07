@@ -2,9 +2,9 @@
 Este repositório contém estudos práticos e análises exploratórias de dados (EDA) utilizando o dataset histórico de eventos e atletas dos Jogos Olímpicos (athlete_events.csv). O objetivo principal é extrair insights sobre o perfil físico dos atletas, distribuição demográfica e desempenho por comitês olímpicos.
 
 📌 Conteúdo do Repositório: 
-1 - Manipulação de DataFrames: Carregamento e inspeção inicial dos dados.
-2 - Filtros Avançados: Consultas específicas por medalhas, modalidades, comitês nacionais (ex: Brasil/BRA) e edições dos jogos.
-3 - Visualização de Dados: Gráficos estatísticos como Boxplots e Histogramas para análise de distribuições e identificação de outliers.
+- Manipulação de DataFrames: Carregamento e inspeção inicial dos dados.
+- Filtros Avançados: Consultas específicas por medalhas, modalidades, comitês nacionais (ex: Brasil/BRA) e edições dos jogos.
+- Visualização de Dados: Gráficos estatísticos como Boxplots e Histogramas para análise de distribuições e identificação de outliers.
 
 🛠️ Tecnologias Utilizadas:
 - Python 3.14
@@ -23,9 +23,9 @@ Distribuição de altura dos atletas participantes:
 - Insight: A altura segue uma distribuição simétrica (normal), com média ao redor de 175 cm.
 
 🔍 Exemplos de Código:
+
 # Carregando o conjunto de dados
 df = pd.read_csv('Dados/athlete_events.csv')
-
 # Exibindo as 5 primeiras linhas
 df.head()
 ```[cite: 1, 2]
