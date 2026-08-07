@@ -12,9 +12,8 @@ Este repositório contém estudos práticos e análises exploratórias de dados 
 - Matplotlib / Seaborn: Para geração das visualizações estatísticas.
 
 📊 Visualizações e Análises ESTATÍSTICAS
-1. Análise de Distribuição por Idade (Age)
-O boxplot e o histograma a seguir ilustram a amplitude e o comportamento da idade dos atletas ao longo da história dos Jogos Olímpicos:
-![image_alt](https://github.com/gustayath/Machine_Learning_Python/blob/f7380daa791f0116d0d7c54da9ce2c430ec752f5/boxPlot_idade.png) 
+1. Análise de Distribuição por Idade (Age): O boxplot e o histograma a seguir ilustram a amplitude e o comportamento da idade dos atletas ao longo da história dos Jogos Olímpicos:
+![image_alt](https://github.com/gustayath/Machine_Learning_Python/blob/f7380daa791f0116d0d7c54da9ce2c430ec752f5/boxPlot_idade.png) ![image_alt](https://github.com/gustayath/Machine_Learning_Python/blob/ae0337e51b8de5ec46675d1c44e0ccb734edf8a6/hist_idade.png)
 - Insight: A idade média dos atletas concentra-se na faixa dos 20 aos 30 anos (com mediana em torno de 25 anos), apresentando outliers em esportes específicos (como equitação ou tiro) com atletas acima de 50 anos.
 
 2. Análise de Distribuição por Altura (Height)
