@@ -23,12 +23,6 @@ Distribuição de altura dos atletas participantes:
 ![image_alt](https://github.com/gustayath/Machine_Learning_Python/blob/f6eff4516f9d2868f81937ec07d1b307408ab05c/boxPlot_altura.png)
 ![image_alt](https://github.com/gustayath/Machine_Learning_Python/blob/3e151e6874a9fb0c4ea538f1849ad1f0db4936be/hist_altura.png)
 
-# 📊 Análise de Dados Olímpicos
-
-Este projeto utiliza o conjunto de dados **Athlete Events** para realizar análises exploratórias sobre atletas olímpicos, utilizando **Python**, **Pandas** e **Matplotlib**.
-
----
-
 ## 🔍 Exemplos de Código
 
 ### Carregando o conjunto de dados
